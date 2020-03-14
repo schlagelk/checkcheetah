@@ -1,0 +1,5 @@
+name: 'Check Cheetah'
+description: 'Run checks via PR comments'
+runs:
+  using: 'node12'
+  main: 'index.js'
